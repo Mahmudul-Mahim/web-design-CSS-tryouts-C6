@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.first{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    float: left;
+}
+.second{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    overflow: hidden;
+    float: left;
+}
+.third{
+    height: 100px;
+    width: 100px;
+    background-color:green;
+    overflow: hidden;
+}

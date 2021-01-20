@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.news {
+    background-color: darkmagenta;
+    padding: 10px 0px;
+    color: floralwhite;
+    width: 100%;
+    position: fixed;
+}
+.content{
+    color: rgb(177, 47, 47);
+    
+}

@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.left-side {
+    background-color: cyan;
+    padding: 90px;
+    width: 30;
+    float: left;
+}
+
+.right-side {
+    background-color: darkgreen;
+    padding: 90px;
+    width: 60;
+    overflow: hidden;
+}
+
+.prothom {
+    color: brown;
+}
+
+.arekta {
+    color: coral;
+    text-align: center;
+}
+
+#joke {
+    color: rgb(76, 179, 56);
+}
